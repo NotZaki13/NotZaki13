@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NotZaki13
 - 👀 I’m interested in: C++, JAVA SUCKS
 - 🌱 I’m currently learning: c++
-- 💞️ I’m looking to collaborate on: Coding Project
+- 💞️ I’m looking to collaborate on: Coding Projects
 - 📫 How to reach me: NONE
 
 <!---
